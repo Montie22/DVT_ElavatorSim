@@ -1,0 +1,15 @@
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\bin\Debug\net6.0\ElevatorSimulation.exe
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\bin\Debug\net6.0\ElevatorSimulation.deps.json
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\bin\Debug\net6.0\ElevatorSimulation.runtimeconfig.json
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\bin\Debug\net6.0\ElevatorSimulation.dll
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\bin\Debug\net6.0\ElevatorSimulation.pdb
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.csproj.AssemblyReference.cache
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.AssemblyInfoInputs.cache
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.AssemblyInfo.cs
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.csproj.CoreCompileInputs.cache
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.dll
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\refint\ElevatorSimulation.dll
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.pdb
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ElevatorSimulation.genruntimeconfig.cache
+C:\Users\monti\OneDrive\Documents\Projects\DVT ElevatorSim\ElevatorSimulation\obj\Debug\net6.0\ref\ElevatorSimulation.dll
